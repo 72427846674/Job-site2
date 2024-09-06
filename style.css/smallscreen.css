@@ -8,6 +8,13 @@
     .featured-img {
         display: none;
     }
+    .main {
+        background-image: url(/images/businesswomen.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        min-height: 95vh;
+        width: 100%;
+        }
     .btn0, .btn1 {
         height: 30px;
         width: 80px;
